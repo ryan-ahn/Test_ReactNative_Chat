@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "843364926413",
+    "project_id": "partners-chat",
+    "storage_bucket": "partners-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843364926413:android:29b975f414ce7354e4fa84",
+        "android_client_info": {
+          "package_name": "com.vlpmtestrelease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843364926413-7q004dfcc80mdo3d6455umtia2fgdtgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfXEKkCbmkeUToUgA_uTgMF69tp1agnwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843364926413-7q004dfcc80mdo3d6455umtia2fgdtgq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843364926413-n91daimnm3ejgd56uqivrqj9t4bv3seh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.vlpmtestrelease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

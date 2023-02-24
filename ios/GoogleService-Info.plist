@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>684515626070-tre65qkfbdqk52rkvu7occvg0d7e7b43.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.684515626070-tre65qkfbdqk52rkvu7occvg0d7e7b43</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDV1Y2byNc2C1NQolCHn2roPqoUZ7jO3E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>684515626070</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.vlpmfrontendrelease</string>
+	<key>PROJECT_ID</key>
+	<string>vlpm-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vlpm-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:684515626070:ios:a1e5d181c33c13497b3ff7</string>
+</dict>
+</plist>

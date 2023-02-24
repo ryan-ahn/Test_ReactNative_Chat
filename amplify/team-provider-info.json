@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vlpm-dev-183357-authRole",
+      "UnauthRoleArn": "arn:aws:iam::912011250739:role/amplify-vlpm-dev-183357-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::912011250739:role/amplify-vlpm-dev-183357-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-vlpm-dev-183357-deployment",
+      "UnauthRoleName": "amplify-vlpm-dev-183357-unauthRole",
+      "StackName": "amplify-vlpm-dev-183357",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:912011250739:stack/amplify-vlpm-dev-183357/326cfc50-fd5a-11ec-9e19-0a4c7bb80924",
+      "AmplifyAppId": "d3gi09tqe7o2y5"
+    }
+  }
+}
